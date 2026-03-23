@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2>💀 About Project</h2>
+<h2> About Project</h2>
 <p>
 This is a <b>Python-based Nmap Scanner Tool</b> built for <b>network reconnaissance</b>.<br>
 It helps identify open ports and running services on a target system.
@@ -76,7 +76,7 @@ Do not use it on systems without permission.
 <h2>👨‍💻 Author</h2>
 <p>
 <b>Gaurav Raturi</b><br>
-Cyber Security Enthusiast 💀
+Cyber Security Enthusiast 
 </p>
 
 <hr>
